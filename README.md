@@ -51,6 +51,5 @@
 # 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhobie07" alt="rhobie07" /></a> </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=Rhobie07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
