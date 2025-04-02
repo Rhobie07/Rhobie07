@@ -44,10 +44,11 @@
 </p> <br/>
 
 # 📊 GitHub Stats:
-<div align="center"> 
-![](https://github-readme-stats.vercel.app/api?username=Rhobie07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rhobie07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhobie07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </div> <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhobie07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rhobie07&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhobie07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 # 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhobie07" alt="rhobie07" /></a> </p>
